@@ -12,3 +12,9 @@
 I work in technical support.
 
 I have a lot of free time, and I don't want to waste it. I want to learn something new. I set myself a goal to finish this school. And get a certificate.
+
+## Skills
+
+**Basic knowledge of**: 
+- HTML
+- CSS
