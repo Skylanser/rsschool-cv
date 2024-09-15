@@ -18,3 +18,8 @@ I have a lot of free time, and I don't want to waste it. I want to learn somethi
 **Basic knowledge of**: 
 - HTML
 - CSS
+
+## Languages
+
+- Russian - native speaker
+- English - A2
